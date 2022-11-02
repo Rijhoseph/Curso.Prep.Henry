@@ -4,8 +4,13 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-* `for`
-* `&&`, `||`, `!`
+* `for` //// es un codigo para poder crear un ciclo de repeticion el cual puedo indicar cuantas veces hacer, puede ser indefinido, a este mismo le puede indicar cunado termine
+
+* `&&`, //// y como la interpretacion de un accio, ejempli su 4 es "mayor que 2 ,y, 4 es mejor que 15" se concatena dos afirmaciones y se puede usar en el mismo codigo para que relice un accion con `&&`,   
+
+`||`,  //// otro operador logico en donde si todas tiene algo de verdadero ser verdadero pero si tiene dos afirmaciones falsas ser falso
+
+`!`,  //// este niega todo lo que le asigne de valor adelante
 
 2. Desde la carpeta `Prep` en la carpeta donde clonaste el repo, ingresa el comando `npm test JSII.test.js` para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo `homework.js`.
 

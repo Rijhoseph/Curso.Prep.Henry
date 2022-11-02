@@ -4,9 +4,11 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Variables
-	* Strings
-	* Funciones (argumentos, `return`)
+	* Variables: es un elemento de va almanacenar un dato, que  puede cambiar en el transcurso del codigo, es decir, mas adelante esa variable la puedo usar, la puedo consultar o mostrar el valor que tiene, usarla para lguna operacion o funcion, por eso tambien se llama declar las variables.
+
+	* Strings: Es un tipo de variable el cual se detecta como texto o caracteres y va dentro de paretesis,"hola", pero si colcolo numero "22", igual lo tomara como texto o strings
+	
+	* Funciones (argumentos, `return`);
 	* Declaraciones `if`
 	* Valores booleanos (`true`, `false`)
 

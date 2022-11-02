@@ -1,0 +1,30 @@
+.divClass {
+	text-align:center;
+
+		}
+
+		#thirdDiv {
+
+			height: 600px;
+			width: 500px;
+			background: green;
+			padding: 50px;
+			border: black;
+			text-align:center;
+		}
+
+		#spanId {
+
+           font-size: 18px;
+           margin: 50px;
+           text-align:center;
+           
+		}
+
+body {
+  
+  background-image: url("https://publicdomainvectors.org/photos/Gerald_G_Fast_Food_Lunch_Dinner_(FF_Menu)_18.png");
+
+  
+  
+}
